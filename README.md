@@ -46,9 +46,9 @@ npx playwright install
 npx playwright test
 ```
 
-### Run tests in headed mode
+### Run tests in headless mode
 ```bash
-npx playwright test --headed
+npx playwright test --headless
 ```
 
 ### Run tests in specific browser
